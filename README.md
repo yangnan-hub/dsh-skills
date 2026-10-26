@@ -19,3 +19,11 @@ git clone git@github.com:yangnan-hub/dsh-skills.git ~/.dsh/skills
 Harness 会自动扫描该目录，无需重启。
 
 来源：[alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 及其人物 skill 仓库（MIT）。
+
+## 健康检查
+
+```bash
+./verify.sh
+```
+
+每次 `git pull` 后跑一次：校验 frontmatter、UTF-8、相对引用是否落盘，并提示本地与远端是否一致。只验文件层，不验 DSH 是否真的扫到了技能。
