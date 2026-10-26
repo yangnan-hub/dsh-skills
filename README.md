@@ -8,6 +8,7 @@ DeepSeek Harness 用户级 skill 目录（`~/.dsh/skills`）。
 | `andrej-karpathy-perspective` | 卡帕西视角：AI 工程可靠性、Software 2.0/3.0、学习路径 |
 | `feynman-perspective` | 费曼视角：拆解式理解、反 cargo cult、教学表达 |
 | `elon-musk-perspective` | 马斯克视角：第一性原理、成本拆解、五步算法 |
+| `paul-graham-perspective` | Paul Graham 视角：创业/写作/产品/早期增长 |
 
 ## 换机器恢复
 
